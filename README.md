@@ -21,8 +21,7 @@ public class Scheduler {
 	public static int totalRunTime = 0;
 	public static Job runningJob = null;
 
-	// Add your input file name with path here
-	public static final String FILENAME = "C:\\Users\\pradeep\\workspace\\Test\\src\\Input.txt";
+	
 
 	public static void main(String[] args) throws Exception {
 
